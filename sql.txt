@@ -1,0 +1,11 @@
+CREATE TABLE user_information(
+user_id int  not null,
+    name varchar(500) not null,
+   qualification varchar(500) not null,
+    email varchar (500) not null,
+    phone varchar(20) not null,
+    subject varchar (500) not null,
+    search varchar (1000) not null,
+   CONSTRAINT uipk PRIMARY KEY (user_id)
+    
+);
