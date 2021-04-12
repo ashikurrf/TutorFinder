@@ -76,7 +76,7 @@ margin: 20px 20px;
     margin: 5px 5px;
 }
 .grid-container .info {
-    background-color: rgba(57, 61, 61, 0.8);
+    background-color: rgba(0, 0, 0, 0.8);
     border: 2px solid rgb(0, 253, 232);
     border-radius: 10px;
     font-size: 30px;

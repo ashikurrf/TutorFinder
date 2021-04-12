@@ -32,10 +32,10 @@ $result = mysqli_query($link,$query);
                 {
                     echo '<div class="info">
                         <h6>Name : '.$row['name'].'</h6>
-                        <h6>Qualification: '.$row['qualification'].'</h6>
-                        <h6> Email : '.$row['email'].'</h6>
-                        <h6>Phone : '.$row['phone'].'</h6>
-                        <h6>Subject Name: '.$row['subject'].'</h6>
+                        <h6>Qualification:  '.$row['qualification'].'</h6>
+                        <h6> Email :  '.$row['email'].'</h6>
+                        <h6>Phone :  '.$row['phone'].'</h6>
+                        <h6>Subject Name:  '.$row['subject'].'</h6>
                     </div>';
                 }
             ?>  

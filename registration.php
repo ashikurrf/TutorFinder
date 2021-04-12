@@ -40,7 +40,7 @@ if( isset($_POST['submit']) ){
           </ul>
     </div>
     <div class="head-reg">
-        <h1>Register</h1>
+        <h1>Teacher Register</h1>
     </div>
     <div class="registration">
         <form class="reg" method="POST" actiion="">
